@@ -3,7 +3,7 @@ t1-lift is a script that allows you to create multiple elevators with multiple f
 
 Preview
 
-![image](https://github.com/enesright/t1-lift/assets/121297265/cd7cc938-278d-46a3-868e-a4f85dde7d7f)
+![image](https://github.com/enesright/t1-lift/assets/121297265/a774010b-80ae-43a5-a100-8ea7040ce892)
 
 # Dependency
 * [QBCore](https://github.com/qbcore-framework/qb-core)
@@ -20,6 +20,6 @@ Preview
 * [Restricted Floors & Custom Sounds](https://streamable.com/0r48kh)
 * [No Restricted Floors & No Custom Sounds](https://streamable.com/h9j2rz)
 
+
 # Credits
 https://github.com/DanielCoelh0/qb-lift
-
