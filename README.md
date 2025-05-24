@@ -7,6 +7,7 @@ Preview
 
 # Dependency
 * [QBCore](https://github.com/qbcore-framework/qb-core)
+31
 
 # Optional Dependency
 * [interact-sound](https://github.com/qbcore-framework/interact-sound)
