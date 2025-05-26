@@ -1,14 +1,10 @@
-shared_script '@t1-print/ai_module_fg-obfuscated.lua'
-shared_script '@t1-print/shared_fg-obfuscated.lua'
 fx_version   'cerulean'
 lua54        'yes'
 games        { 'gta5' }
 
-name         'neo-elevators'
-author       'ZioNeo'
+name         't1-lift'
+author       'enesrght'
 version      '1.0.0'
-license      'LGPL-3.0'
-repository   'not avaible'
 description  'Elevators Script.'
 
 --[[ Manifest ]]--
