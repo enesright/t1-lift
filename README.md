@@ -14,7 +14,8 @@ t1-lift is a script that allows you to create multiple elevators with multiple f
 * Use your custom sounds in your lifts (Need interact-sound)
 
 # Preview
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/f58f0203-c4ad-4488-8389-5a398fbd06b8)
 
 # Credits
 https://github.com/DanielCoelh0/qb-lift
